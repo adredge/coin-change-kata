@@ -1,0 +1,19 @@
+{
+  "name": "coin-change-kata",
+  "version": "1.0.0",
+  "description": "Given some cents, return the least number of coins to provide that change",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha \\\"./**/*.specs.js\\\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adredge/coin-change-kata.git"
+  },
+  "author": "Amy Dredge",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adredge/coin-change-kata/issues"
+  },
+  "homepage": "https://github.com/adredge/coin-change-kata#readme"
+}
